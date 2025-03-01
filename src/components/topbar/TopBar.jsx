@@ -21,7 +21,7 @@ export default function topbar() {
       <div className="topRight">
         <img
           className="topImg"
-          src="https://www.health.com/thmb/YXxmAuCsJHtTWvSWPorjVx1F7AQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-TypesOfCoffee-b8f6f7382a1443109f74edb1050f9808.jpg"
+          src="https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
           alt=""
         />
         <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
